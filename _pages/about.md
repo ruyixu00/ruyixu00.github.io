@@ -9,9 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-Hi! I’m Ruyi, an Undergraduate at the University of Toronto majoring in Astronomy and Physics. I will be graduating in June 2025 and will be open to both academic and professional opportunities.
+Hi! I’m Ruyi, an Undergraduate at the University of Toronto majoring in Astronomy and Physics. I will graduate in June 2025 and be open to academic and professional opportunities.
 
 Academically my interests lie in star formation regions' chemical and nuclear evolution and Solar Physics. I am open to trying new things and would love to learn more about other specialities. Outside of Academics, I am an avid trader boasting a 2nd place in my University's Trading competition in 2023. Other than this I am also particularly interested in Macroeconomic policies and modelling as well.
 
 
-
+## Current Research & Works
+Currently, I am working with Professor [Rachel Friesen] (https://www.astro.utoronto.ca/~friesen/) on determining the borders of different-sized carbon chain molecules in star-forming regions. I am also starting my machine-learning algorithm to rate individual stocks.
