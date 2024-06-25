@@ -15,4 +15,4 @@ Academically my interests lie in star formation regions' chemical and nuclear ev
 
 
 ## Current Research & Works
-Currently, I am working with Professor [Rachel Friesen] (https://www.astro.utoronto.ca/~friesen/) on determining the borders of different-sized carbon chain molecules in star-forming regions. I am also starting my machine-learning algorithm to rate individual stocks.
+Currently, I am working with Professor [Rachel Friesen] (https://www.astro.utoronto.ca/~friesen/) on determining the borders of different-sized carbon chain molecules in star-forming regions. I am also starting my machine-learning algorithm to rate individual stocks. I am also the current Treasurer of the [Physics Student Union] (https://www.physu.org/home) where I plan budgets for the union and prepare reimbursements for other executives.
