@@ -11,6 +11,6 @@ Currently I am working with Professor Rachel Friesen looking at long carbon chai
 <center>
   <figure style="width:800px">
 	  <img src="HC5N_C2S.png">
-	  <figcaption>clusters of HC5N and C2S identified in B18 
+	  <figcaption>clusters of HC5N and C2S identified in B18 </figcaption>
       </figure>
         </center>
