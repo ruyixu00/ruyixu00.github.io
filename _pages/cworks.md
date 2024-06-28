@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Current Work(s)"
-permalink: /pworks/
+permalink: /cworks/
 author_profile: true
 ---
 
