@@ -10,13 +10,13 @@ author_profile: true
 ## Undergraduate Astronomy Lab Projects
 The following 2 projects are completed as part of AST399Y5 under the supervision of [Professor Lea Hirsch](https://www.astro.utoronto.ca/people/faculty/name/lea-hirsh/)
 
-**Satelite Dynamics**
+**Satellite Dynamics**
 
 This [Lab Manual](/sats_lab.pdf) is written in 2023 intended for introductory undergraduate astronomy courses with the use of [Unistellar's Evscope2](https://shop.unistellar.com/products/evscope-2). Students will be expected to plan observation nights based on weather and availability of targets and be expected to learn how to process .fits files and apply geometry to determine the dynamics of satellites of their choice. 
 
 **Solar Rotations**
 
-This [Lab Manual](/solrot_lab.pdf) is written in 2023 intended for introductory undergraduate astronomy courses with the use of [Unistellar's Evscope2](https://shop.unistellar.com/products/evscope-2). A more accessible lab that can be performed during daytime. Students will be expected to apply fitting functions and come-up with their own solar differential rotation equations. This [Longtitude-Latitude tool](https://raw.githack.com/ruyixu00/Lat-Long-Finder/main/index.html) was developed to identify the positions of sunspots. 
+This [Lab Manual](/solrot_lab.pdf) is written in 2023 intended for introductory undergraduate astronomy courses with the use of [Unistellar's Evscope2](https://shop.unistellar.com/products/evscope-2). A more accessible lab that can be performed during daytime. Students will be expected to apply fitting functions and come-up with their own solar differential rotation equations. This [Longitude-Latitude tool](https://raw.githack.com/ruyixu00/Lat-Long-Finder/main/index.html) was developed to identify the positions of sunspots. 
 
 ## Bloop
 
