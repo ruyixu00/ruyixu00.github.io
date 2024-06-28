@@ -1,12 +1,14 @@
 # main links links
 main:
+  - title: "Current Work(s)"
+    url: /cworks/
 
-  - title: "Works"
-    url: /works/
+  - title: "Past Works"
+    url: /pworks/
 
   - title: "CV"
     url: /Resume-Ruyi-Xu.pdf
     
   - title: "Outside of Work"
-    url: /unwork/
+    url: /owork/
     

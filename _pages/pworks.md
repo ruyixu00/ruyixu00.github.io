@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "My Works"
-permalink: /works/
+title: "Past Works"
+permalink: /pworks/
 author_profile: true
 ---
 
