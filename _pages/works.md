@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Works"
+title: "My Works"
 permalink: /works/
 author_profile: true
 ---
@@ -9,4 +9,4 @@ author_profile: true
 
 ## Modified Dispersion Relations in Neutrino Oscillations
 
-This [thesis](/SRP_Paper.pdf) is written in 2015 as a Science Research Programme at National University of Singapore while I was a student at Catholic Junior College as a Higher-3 coursework (equivalent to highschool honors).
+**This [thesis](/SRP_Paper.pdf) is written in 2015 as a Science Research Programme at National University of Singapore while I was a student at Catholic Junior College as a Higher-3 coursework (equivalent to highschool honors).
