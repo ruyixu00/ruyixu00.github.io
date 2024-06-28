@@ -7,10 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-## Organic Molecues in Star Formation Regions
-
-
-
 ## Undergraduate Astronomy Lab Projects
 The following 2 projects are completed as part of AST399Y5 under the supervision of [Professor Lea Hirsch](https://www.astro.utoronto.ca/people/faculty/name/lea-hirsh/)
 
