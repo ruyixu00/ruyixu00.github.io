@@ -22,4 +22,4 @@ Currently, I am working with Professor Rachel Friesen looking at long carbon cha
 
 **Future Plans**
 
-I intend to use the plots of different molecules along with their enthalpy values to estimate the energy density and temperature of different regions. Hopefully using this information and blackbody spectrum of the region we can have a better idea of the relative velocity of the star forming region.
+I intend to use the plots of different molecules to calculate column density of the molecues in the gas cluster to determine the virial stability of the cluster.
