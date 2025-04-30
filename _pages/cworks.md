@@ -35,11 +35,15 @@ Project Stars is a Research Course Project done in collaboration with Aditya Kha
 <div style="text-align: center;">
   <figure style="width:800px">
 	  <img src="/light%20curve.png" alt="Seestar lightcurve">
-	  <figcaption>Light Curve of 44 Boötes B a variable star with a period of 6.43Hrs</figcaption>
+	  <figcaption>Light Curve of 44 Boötes B a variable star with a period of 6.43Hrs. between 300 and 400 minutes we can see issues with the magnitude not following the curve and throught the plot we can roughly see 2 distinct light curves as a result of the seestars not calibreated the same.</figcaption>
       </figure>
         </div>
 **Future Plans**
 Future work involve resolving our current calibration issues and then developing a manual for the usage of our pipeline. Once this is done we aim to make comparisons with ore expensive telescopes to see the cost to snr ratio of using such methoods, we aim to publish a paper on this topic as well.
 
 ## Exposure Time Calculator for UofT E.C Carr observatory
+
+This is a Work Study Project involving developing a exposure time calculator for non-science students to use the Half-Meter telescope at the E.C Carr Astronomical Observatory for their coursework. Currently the exposure calculator assumes all object are point source targets and takes into account the sky brightness of the location, twilight brightness and moon brightness. The current version of the calulator can be found here.
+ **Future Work**
+Currently there are plans to add in more weather factors into the calculator such as atmospheric extinction, humidity, pressure and etc. Aside from this there are plans to develop an extended object version of this calculator and add a search catalogue to atoumatically find the magnitude of the object observed.
 
