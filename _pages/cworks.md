@@ -26,6 +26,7 @@ Using these results together with Dust maps from the James Clark Maxwell Telesco
 	  <figcaption> Plot of Virial Parameters against observed intensities of Complex molecules. Here a smaller Virial parameter indicates a more stable system, stability is achieved at α=2. From the diagram we can clearly see that as observed intensities inceas Virial Parameter decreases indicating a more stable core.  </figcaption>
       </figure>
         </div>
+
 **Future Plans**
 Future work currently I am working on include adding in pressure parameters to the model and publishing my results as a paper. Other possible work that can be explored with the project include increasing the complexity of our modules by considering factors such as magnetic fields, rotational kinematics and probing into the chemistry of such regions.
 
